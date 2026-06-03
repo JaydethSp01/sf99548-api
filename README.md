@@ -1,2 +1,3 @@
-# sf99548-api
-ScrumDev AI backend (sf99548-api)
+# TPL Salud Cita Backend
+
+Este es el backend del sistema de gestión de citas médicas para la clínica.
